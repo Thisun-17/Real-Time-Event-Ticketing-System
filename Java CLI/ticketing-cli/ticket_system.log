@@ -1,0 +1,82 @@
+[2024-12-06 11:40:04] INFO: Starting Ticket System Application
+[2024-12-06 11:41:53] INFO: Initializing system...
+[2024-12-06 11:41:58] INFO: Initializing vendors...
+[2024-12-06 11:41:58] INFO: Vendor 1 initialized with release rate: 2
+[2024-12-06 11:41:58] INFO: Vendor 2 initialized with release rate: 2
+[2024-12-06 11:41:58] INFO: Initializing customers...
+[2024-12-06 11:41:58] INFO: Customer 1 initialized with retrieval rate: 1
+[2024-12-06 11:41:58] INFO: Customer 2 initialized with retrieval rate: 1
+[2024-12-06 11:41:58] INFO: Customer 3 initialized with retrieval rate: 1
+[2024-12-06 11:41:58] INFO: SUCCESS: System initialized successfully!
+[2024-12-06 11:41:58] INFO: 
+=== System Status ===
+[2024-12-06 11:41:58] INFO: System Running: false
+[2024-12-06 11:42:01] INFO: Starting vendors...
+[2024-12-06 11:42:01] INFO: Started V1
+[2024-12-06 11:42:01] INFO: Started V2
+[2024-12-06 11:42:01] INFO: Starting customers...
+[2024-12-06 11:42:01] INFO: Started C1
+[2024-12-06 11:42:01] INFO: Started C2
+[2024-12-06 11:42:01] INFO: Started C3
+[2024-12-06 11:42:01] INFO: SUCCESS: System started successfully!
+[2024-12-06 11:42:07] INFO: 
+=== System Status ===
+[2024-12-06 11:42:07] INFO: System Running: true
+[2024-12-06 11:42:07] INFO: 
+Vendor Statistics:
+[2024-12-06 11:42:07] INFO: Vendor V1: 11 tickets produced
+[2024-12-06 11:42:07] INFO: Vendor V2: 11 tickets produced
+[2024-12-06 11:42:07] INFO: 
+Customer Statistics:
+[2024-12-06 11:42:07] INFO: Customer C1: 6 tickets purchased
+[2024-12-06 11:42:07] INFO: Customer C2: 5 tickets purchased
+[2024-12-06 11:42:07] INFO: Customer C3: 4 tickets purchased
+[2024-12-06 11:42:12] INFO: 
+=== System Status ===
+[2024-12-06 11:42:12] INFO: System Running: true
+[2024-12-06 11:42:12] INFO: 
+Vendor Statistics:
+[2024-12-06 11:42:12] INFO: Vendor V1: 20 tickets produced
+[2024-12-06 11:42:12] INFO: Vendor V2: 20 tickets produced
+[2024-12-06 11:42:12] INFO: 
+Customer Statistics:
+[2024-12-06 11:42:12] INFO: Customer C1: 11 tickets purchased
+[2024-12-06 11:42:12] INFO: Customer C2: 10 tickets purchased
+[2024-12-06 11:42:12] INFO: Customer C3: 9 tickets purchased
+[2024-12-06 11:42:17] INFO: 
+=== System Status ===
+[2024-12-06 11:42:17] INFO: System Running: true
+[2024-12-06 11:42:17] INFO: 
+Vendor Statistics:
+[2024-12-06 11:42:17] INFO: Vendor V1: 20 tickets produced
+[2024-12-06 11:42:17] INFO: Vendor V2: 20 tickets produced
+[2024-12-06 11:42:17] INFO: 
+Customer Statistics:
+[2024-12-06 11:42:17] INFO: Customer C1: 14 tickets purchased
+[2024-12-06 11:42:17] INFO: Customer C2: 14 tickets purchased
+[2024-12-06 11:42:17] INFO: Customer C3: 12 tickets purchased
+[2024-12-06 11:42:17] INFO: SUCCESS: All tickets have been sold!
+[2024-12-06 11:42:17] INFO: Initiating automatic system shutdown...
+[2024-12-06 11:42:17] INFO: Stopping system...
+[2024-12-06 11:42:17] INFO: Stopping vendors and customers...
+[2024-12-06 11:42:17] INFO: Interrupting all threads...
+[2024-12-06 11:42:17] INFO: Waiting for all threads to finish...
+[2024-12-06 11:42:17] SEVERE: Error waiting for thread to stop: null
+[2024-12-06 11:42:17] INFO: Generating final statistics...
+[2024-12-06 11:42:17] INFO: 
+=== System Status ===
+[2024-12-06 11:42:17] INFO: System Running: false
+[2024-12-06 11:42:17] INFO: SUCCESS: System stopped successfully!
+[2024-12-07 15:45:29] INFO: Starting Ticket System Application
+[2024-12-07 15:45:41] INFO: Initializing system...
+[2024-12-07 15:47:27] INFO: Initializing vendors...
+[2024-12-07 15:47:27] INFO: Vendor 1 initialized with release rate: 3
+[2024-12-07 15:47:27] INFO: Vendor 2 initialized with release rate: 3
+[2024-12-07 15:47:27] INFO: Initializing customers...
+[2024-12-07 15:47:27] INFO: Customer 1 initialized with retrieval rate: 2
+[2024-12-07 15:47:27] INFO: Customer 2 initialized with retrieval rate: 2
+[2024-12-07 15:47:27] INFO: Customer 3 initialized with retrieval rate: 2
+[2024-12-07 15:47:27] INFO: SUCCESS: System initialized successfully!
+[2024-12-07 15:47:27] INFO: 
+=== System Status ===
+[2024-12-07 15:47:27] INFO: System Running: false

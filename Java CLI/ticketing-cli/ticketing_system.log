@@ -1,0 +1,62 @@
+[2024-12-06 10:24:42] INFO: Initializing system configuration...
+[2024-12-06 10:24:47] INFO: Configuration saved to config.json
+[2024-12-06 10:24:47] INFO: Configuration created successfully: capacity=20, vendorRate=3, customerRate=1, price=400.00
+[2024-12-06 10:24:47] INFO: Previous configuration loaded successfully
+[2024-12-06 10:26:20] INFO: Initializing system configuration...
+[2024-12-06 10:26:23] INFO: Creating new configuration...
+Dec 06, 2024 10:33:08 AM org.example.ticketing.config.Configuration initializeConfig
+INFO: Initializing system configuration...
+Dec 06, 2024 10:33:14 AM org.example.ticketing.config.Configuration initializeConfig
+INFO: Creating new configuration...
+Dec 06, 2024 10:33:38 AM org.example.ticketing.config.Configuration saveConfig
+INFO: Configuration saved to config.json
+Dec 06, 2024 10:33:38 AM org.example.ticketing.config.Configuration <init>
+INFO: Configuration created: totalTickets=20, releaseRate=3, retrievalRate=1, maxCapacity=10
+Dec 06, 2024 10:42:51 AM org.example.ticketing.config.Configuration initializeConfig
+INFO: Initializing system configuration...
+Dec 06, 2024 10:42:55 AM org.example.ticketing.config.Configuration initializeConfig
+INFO: Creating new configuration...
+Dec 06, 2024 10:43:09 AM org.example.ticketing.config.Configuration saveConfig
+INFO: Configuration saved to config.json
+Dec 06, 2024 10:43:09 AM org.example.ticketing.config.Configuration <init>
+INFO: Configuration created: totalTickets=50, releaseRate=3, retrievalRate=1, maxCapacity=14
+Dec 06, 2024 10:45:43 AM org.example.ticketing.config.Configuration initializeConfig
+INFO: Initializing system configuration...
+Dec 06, 2024 10:45:46 AM org.example.ticketing.config.Configuration initializeConfig
+INFO: Creating new configuration...
+Dec 06, 2024 10:46:00 AM org.example.ticketing.config.Configuration saveConfig
+INFO: Configuration saved to config.json
+Dec 06, 2024 10:46:00 AM org.example.ticketing.config.Configuration <init>
+INFO: Configuration created: totalTickets=40, releaseRate=2, retrievalRate=1, maxCapacity=30
+Dec 06, 2024 11:35:43 AM org.example.ticketing.config.Configuration initializeConfig
+INFO: Initializing system configuration...
+Dec 06, 2024 11:35:46 AM org.example.ticketing.config.Configuration saveConfig
+INFO: Configuration saved to config.json
+Dec 06, 2024 11:35:46 AM org.example.ticketing.config.Configuration <init>
+INFO: Configuration created: totalTickets=40, releaseRate=2, retrievalRate=1, maxCapacity=30
+Dec 06, 2024 11:35:46 AM org.example.ticketing.config.Configuration initializeConfig
+INFO: Previous configuration loaded successfully
+Dec 06, 2024 11:41:53 AM org.example.ticketing.config.Configuration initializeConfig
+INFO: Initializing system configuration...
+Dec 06, 2024 11:41:58 AM org.example.ticketing.config.Configuration saveConfig
+INFO: Configuration saved to config.json
+Dec 06, 2024 11:41:58 AM org.example.ticketing.config.Configuration <init>
+INFO: Configuration created: totalTickets=40, releaseRate=2, retrievalRate=1, maxCapacity=30
+Dec 06, 2024 11:41:58 AM org.example.ticketing.config.Configuration initializeConfig
+INFO: Previous configuration loaded successfully
+Dec 07, 2024 3:45:41 PM org.example.ticketing.config.Configuration initializeConfig
+INFO: Initializing system configuration...
+Dec 07, 2024 3:45:49 PM org.example.ticketing.config.Configuration initializeConfig
+INFO: Creating new configuration...
+Dec 07, 2024 3:46:09 PM org.example.ticketing.config.Configuration <init>
+SEVERE: Invalid configuration parameters: Max capacity cannot be greater than total tickets. 
+Dec 07, 2024 3:46:09 PM org.example.ticketing.config.Configuration getNewConfiguration
+WARNING: Invalid configuration values: Max capacity cannot be greater than total tickets. 
+Dec 07, 2024 3:46:45 PM org.example.ticketing.config.Configuration <init>
+SEVERE: Invalid configuration parameters: Max capacity cannot be greater than total tickets. 
+Dec 07, 2024 3:46:45 PM org.example.ticketing.config.Configuration getNewConfiguration
+WARNING: Invalid configuration values: Max capacity cannot be greater than total tickets. 
+Dec 07, 2024 3:47:27 PM org.example.ticketing.config.Configuration saveConfig
+INFO: Configuration saved to config.json
+Dec 07, 2024 3:47:27 PM org.example.ticketing.config.Configuration <init>
+INFO: Configuration created: totalTickets=15, releaseRate=3, retrievalRate=2, maxCapacity=10

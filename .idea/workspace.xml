@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9955245-d6ba-4165-a6a5-491ed6138488" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/React Frontend/ticket-system/src/components/ControlPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React Frontend/ticket-system/src/components/LogDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React Frontend/ticket-system/src/services/ticketService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React Frontend/ticket-system/src/utils/errorHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Boot Backend/ticketing-system/ticketing-system/src/main/java/org/ticketing/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Boot Backend/ticketing-system/ticketing-system/src/main/java/org/ticketing/model/ Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Boot Backend/ticketing-system/ticketing-system/src/main/java/org/ticketing/model/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Boot Backend/ticketing-system/ticketing-system/src/main/java/org/ticketing/model/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Boot Backend/ticketing-system/ticketing-system/src/main/java/org/ticketing/model/Vendor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Boot Backend/ticketing-system/ticketing-system/src/main/java/org/ticketing/service/ EventService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java CLI/ticketing-cli/src/main/java/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java CLI/ticketing-cli/src/main/java/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java CLI/ticketing-cli/src/main/java/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java CLI/ticketing-cli/src/main/java/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java CLI/ticketing-cli/src/main/java/TicketPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java CLI/ticketing-cli/src/main/java/TicketPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java CLI/ticketing-cli/src/main/java/Vendor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java CLI/ticketing-cli/src/main/java/Vendor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java CLI/ticketing-cli/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java CLI/ticketing-cli/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Real-Time-Event-Ticketing-System" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2pYirLDicm6L2eaIp8wLqZjVUov" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Iit School Of Computing/Computer Science/Level 05 (2nd Year)/Semester 01/Object Oriented Programming/Coursework/Real-Time Event Ticketing System/React Frontend/ticket-system"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9955245-d6ba-4165-a6a5-491ed6138488" name="Changes" comment="" />
+      <created>1732949606747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732949606747</updated>
+    </task>
+    <servers />
+  </component>
+</project>
